@@ -1,7 +1,7 @@
 ### Hi there, 👋 You can call me DarkMatter!
 
 - 🔭 I’m currently a 2nd year Masters Student at The Faculty of Engineering and Technology, University of Buea.
-- 🌱 I’m currently working on my thesis project which involved machine learning with python
+- 🌱 I’m currently working on my thesis project with machine learning python
 - 👯 I’m looking to collaborate on KivyMD projects (A framework for mobile app development with python).
 - 🤔 I’m passionate about programming and I love travelling, reading and video gaming as well.
 - 💬 Ask me about anything productive.
