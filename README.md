@@ -11,7 +11,7 @@
 
 
 [![DarkMatter's github stats](https://github-readme-stats.vercel.app/api?username=dark-matter08&show_icons=true&theme=radical)](https://github.com/dark-matter08/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-matter08&show_icons=true&theme=radical&layout=compact)](https://github.com/dark-matter08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-matter08&theme=radical&layout=compact)](https://github.com/dark-matter08/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-matter08&show_icons=true&theme=radical&layout=compact)](https://github.com/dark-matter08/github-readme-stats)
 
