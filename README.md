@@ -12,7 +12,13 @@
 - ⚡ Fact about me: I wrote my first line of code in 2016 and I've worked on a number of projects since. some of which are on my github profile
 
 
-[![DarkMatter's github stats](https://github-readme-stats.vercel.app/api?username=dark-matter08&show_icons=true&theme=radical)](https://github.com/dark-matter08/github-readme-stats)  
+<div align="center">
+
+  [![DarkMatter's github stats](https://github-readme-stats.vercel.app/api?username=dark-matter08&show_icons=true&theme=radical)](https://github.com/dark-matter08/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-matter08&theme=radical&layout=compact)](https://github.com/dark-matter08/github-readme-stats)
+  
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-matter08&theme=radical&hide_border=true"/>
+</div>
 
-
+<br/>
