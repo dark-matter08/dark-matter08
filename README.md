@@ -10,7 +10,7 @@
 - 💬 Ask me about anything productive.
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nde-lucien-19b033188/) and on [Twitter](https://twitter.com/dark_matter08).
 - 😄 Pronouns: I go by He/Him.
-- ⚡ Fact about me: I wrote my first line of code in 2016 and I've worked on a number of projects since.
+- ⚡ Fact about me: I wrote my first line of code in 2016 and I've worked on a number of projects since
 
 
 <div align="center">
