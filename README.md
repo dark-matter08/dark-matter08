@@ -12,7 +12,6 @@
 - 😄 Pronouns: I go by He/Him.
 - ⚡ Fact about me: I wrote my first line of code in 2016 and I've worked on a number of projects since.
 
-
 <div align="center">
 
 
