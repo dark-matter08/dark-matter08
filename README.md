@@ -5,7 +5,7 @@
 - 🌱 I recently got into React/React-Native and i find it quite interesting.
 - 👯 I’m looking to collaborate on KivyMD projects (A framework for mobile app development with python).
 - 👯 Also looking to collaborate on React/React-Native Projects.
-- ⚡ I am getting into JavaScript Libraries like NextJS and TypeScript.
+- ⚡ MERN is at the moment my main tech stack with Typecript, NestJS, ReactJS and MongoDB as my most used tools.
 - 🤔 I’m passionate about programming and I love travelling, reading and video gaming as well.
 - 💬 Ask me about anything productive.
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nde-lucien-19b033188/) and on [Twitter](https://twitter.com/dark_matter08).
