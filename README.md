@@ -14,6 +14,12 @@
 
 <div align="center">
 
+#### Wakatime
+[![wakatime-stats](https://github.com/dark-matter08/dark-matter08/blob/main/images/stat.svg)](https://wakatime.com/@dark-matter08)
+
+[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@dark-matter08)
+
+
 
   ![DarkMatter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark-matter08&count_private=true&show_icons=true&theme=radical)
   <br/>
