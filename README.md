@@ -1,6 +1,6 @@
 ### Hi there, 👋 You can call me DarkMatter!
 
-- 🔭 I’m currently a 2nd year Masters Student at The Faculty of Engineering and Technology, University of Buea.
+- 🔭 I’m a degree holder at the Faculty of Engineering and Technology in the University of Buea
 - 🌱 I’m currently working on my thesis project with Machine Learning Python.
 - 🌱 I recently got into React/React-Native and i find it quite interesting.
 - 👯 I’m looking to collaborate on KivyMD projects (A framework for mobile app development with python).
@@ -13,7 +13,6 @@
 - ⚡ Fact about me: I wrote my first line of code in 2016 and I've worked on a number of projects since.
 
 <div align="center">
-
 #### Wakatime
 [![wakatime-stats](https://github.com/dark-matter08/dark-matter08/blob/main/images/stat.svg)](https://wakatime.com/@dark-matter08)
 
