@@ -1,9 +1,7 @@
 ### Hi there, 👋 You can call me DarkMatter!
 
 - 🔭 I’m a degree holder at the Faculty of Engineering and Technology in the University of Buea
-- 🌱 I’m currently working on my thesis project with Machine Learning Python.
-- 🌱 I recently got into React/React-Native and i find it quite interesting.
-- 👯 I’m looking to collaborate on KivyMD projects (A framework for mobile app development with python).
+- 👯 I’m looking to collaborate on React-Naprojects (A framework for mobile app development with python).
 - 👯 Also looking to collaborate on React/React-Native Projects.
 - ⚡ MERN is at the moment my main tech stack with Typecript, NestJS, ReactJS and MongoDB as my most used tools.
 - 🤔 I’m passionate about programming and I love travelling, reading and video gaming as well.
