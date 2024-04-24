@@ -1,8 +1,7 @@
 ### Hi there, 👋 You can call me DarkMatter!
 
 - 🔭 I’m a degree holder at the Faculty of Engineering and Technology in the University of Buea
-- 👯 I’m looking to collaborate on React-Naprojects (A framework for mobile app development with python).
-- 👯 Also looking to collaborate on React/React-Native Projects.
+- 👯 I’m looking to collaborate on React/React-Native, Backend(NodeJS || Flask) Projects.
 - ⚡ MERN is at the moment my main tech stack with Typecript, NestJS, ReactJS and MongoDB as my most used tools.
 - 🤔 I’m passionate about programming and I love travelling, reading and video gaming as well.
 - 💬 Ask me about anything productive.
@@ -11,13 +10,6 @@
 - ⚡ Fact about me: I wrote my first line of code in 2016 and I've worked on a number of projects since.
 
 <div align="center">
-#### Wakatime
-[![wakatime-stats](https://github.com/dark-matter08/dark-matter08/blob/main/images/stat.svg)](https://wakatime.com/@dark-matter08)
-
-[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@dark-matter08)
-
-
-
   ![DarkMatter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark-matter08&count_private=true&show_icons=true&theme=radical)
   <br/>
   <br/>
