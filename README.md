@@ -10,8 +10,6 @@
 - ⚡ Fact about me: I wrote my first line of code in 2016 and I've worked on a number of projects since.
 
 <div align="center">
-#### Wakatime
-[![wakatime-stats](https://github.com/dark-matter08/dark-matter08/blob/main/images/stat.svg)](https://wakatime.com/@dark-matter08)
 
 [![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@dark-matter08)
 
