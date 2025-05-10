@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on React/React-Native, Backend(NodeJS || Flask) Projects.
 - ⚡ MERN is at the moment my main tech stack with Typecript, NestJS, ReactJS and MongoDB as my most used tools.
 - 🤔 I’m passionate about programming and I love travelling, reading and video gaming as well.
+- 💼 Looking for work in Europe
 - 💬 Ask me about anything productive.
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nde-lucien-19b033188/) and on [Twitter](https://twitter.com/dark_matter08).
 - 😄 Pronouns: I go by He/Him.
